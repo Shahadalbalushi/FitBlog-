@@ -1,0 +1,33 @@
+
+h2, h3, h4, h5, h6 {
+    font-family:  'Georgia', serif; 
+    color: var(--accent-color); 
+    
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 70px;
+    color: hotpink;
+}
+
+
+q{
+    color: black;
+    font-family: cursive;
+    font-size: 20px;
+}
+
+p {
+    font-family: font-family: "Gill Sans", sans-serif; 
+    line-height: 1.8;
+    color: var(--dark-color);
+}
+ 
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color: var(--accent-color);
+}
+
+

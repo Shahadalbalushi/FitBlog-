@@ -1,0 +1,16 @@
+/* Color Palette */
+:root {
+    --primary-color: #81D8D0; 
+    --secondary-color: #ffffff; 
+    --accent-color: #FF69B4; 
+    --light-color: #FFF0F5; 
+    --dark-color: #000000; 
+    --highlight-color: #f3f3f3; 
+    --background-color: #FFF8DC; 
+}
+
+
+body {
+    background-color: var(--background-color);
+    color: var(--dark-color);
+}
